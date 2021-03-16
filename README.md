@@ -8,7 +8,7 @@ Para compilar o servidor utilizar gcc server.c -o server
 Para rodar o servidor ./server
 
 Para compilar o servidor utilizar gcc client.c -o client
-Para rodar o servidor ./client MSG X
+Para rodar o cliente ./client MSG X
 
 Onde msg, é a mensagem a ser enviada, e x o tamnaho da cifra de cezar
 obs: a msg deve conter apenas carcteres minusculos de a-z.
