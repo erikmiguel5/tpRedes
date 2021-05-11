@@ -1,4 +1,4 @@
-# tpRedes
+#Socket client/Servidor
 
 Este código é uma implementação de um socket, que cria um cliente e um servidor, 
 onde um cliente envia uma mensagem criptografada pela cifra de Cézar para o servidor, 
